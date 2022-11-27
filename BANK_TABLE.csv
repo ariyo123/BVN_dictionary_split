@@ -1,0 +1,1797 @@
+bankCode,bankName,dest
+0,Agency Banking Services,C:/python_work/bvn_user_actitities/destination/
+1,CBN,C:/python_work/bvn_user_actitities/destination/
+9,FHA MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+011,FIRST BANK,C:/python_work/bvn_user_actitities/destination/
+14,MAINSTREET BANK,C:/python_work/bvn_user_actitities/destination/
+23,CITIBANK,C:/python_work/bvn_user_actitities/destination/
+30,HERITAGE BANK,C:/python_work/bvn_user_actitities/destination/
+32,UNION BANK,C:/python_work/bvn_user_actitities/destination/
+33,UBA,C:/python_work/bvn_user_actitities/destination/
+33,UNICAL MFB LTD,C:/python_work/bvn_user_actitities/destination/
+35,WEMA BANK,C:/python_work/bvn_user_actitities/destination/
+044,ACCESS BANK,C:/python_work/bvn_user_actitities/
+50,ECOBANK NIGERIA,C:/python_work/bvn_user_actitities/destination/
+57,ZENITH  BANK,C:/python_work/bvn_user_actitities/destination/
+058,GUARANTY TRUST BANK,C:/python_work/bvn_user_actitities/
+63,DIAMOND BANK,C:/python_work/bvn_user_actitities/destination/
+68,STANDARD CHARTERED BANK,C:/python_work/bvn_user_actitities/destination/
+70,FIDELITY BANK,C:/python_work/bvn_user_actitities/destination/
+76,POLARIS BANK,C:/python_work/bvn_user_actitities/destination/
+82,KEYSTONE BANK,C:/python_work/bvn_user_actitities/destination/
+84,ENTERPRISE BANK,C:/python_work/bvn_user_actitities/destination/
+88,FINANCE AND COMMERCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+100,SunTrust Bank,C:/python_work/bvn_user_actitities/destination/
+101,PROVIDUS BANK,C:/python_work/bvn_user_actitities/destination/
+102,TITAN TRUST BANK,C:/python_work/bvn_user_actitities/destination/
+103,GLOBUS BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+104,PARALLEX BANK,C:/python_work/bvn_user_actitities/destination/
+105,PREMIUM TRUST BANK,C:/python_work/bvn_user_actitities/destination/
+106,SIGNATURE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+107,Optimus Bank,C:/python_work/bvn_user_actitities/destination/
+111,ABU MICROFINANCE BANK NIG LTD,C:/python_work/bvn_user_actitities/destination/
+123,ARM FINANCIAL ADVISERS LTD,C:/python_work/bvn_user_actitities/destination/
+124,INVESTORS AND TRUST COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+140,BLUEPRINT INVESTMENTS MFB LTD,C:/python_work/bvn_user_actitities/destination/
+212,Independent National Electoral Commission,C:/python_work/bvn_user_actitities/destination/
+214,FIRST CITY MONUMENT BANK,C:/python_work/bvn_user_actitities/destination/
+215,UNITY BANK,C:/python_work/bvn_user_actitities/destination/
+221,STANBIC IBTC BANK,C:/python_work/bvn_user_actitities/destination/
+232,STERLING BANK,C:/python_work/bvn_user_actitities/destination/
+301,JAIZ BANK,C:/python_work/bvn_user_actitities/destination/
+302,TAJBank,C:/python_work/bvn_user_actitities/destination/
+333,Stanford Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+345,Al-Barakah Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+445,Ibom Fadama Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+501,FSDH,C:/python_work/bvn_user_actitities/destination/
+502,RAND MERCHANT BANK,C:/python_work/bvn_user_actitities/destination/
+559,CORONATION MERCHANT BANK,C:/python_work/bvn_user_actitities/destination/
+561,del_Nova Merchant Bank,C:/python_work/bvn_user_actitities/destination/
+723,Sparkle Mocrofinance Bank,C:/python_work/bvn_user_actitities/destination/
+772,CEMCS MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+800,ONE CREDIT,C:/python_work/bvn_user_actitities/destination/
+801,CORONATION MERCHANT BANK,C:/python_work/bvn_user_actitities/destination/
+802,C24 LIMITED,C:/python_work/bvn_user_actitities/destination/
+803,Brent MB Limited,C:/python_work/bvn_user_actitities/destination/
+804,Abbey MB Plc,C:/python_work/bvn_user_actitities/destination/
+805,Refuge Home Savings  & Loans Ltd,C:/python_work/bvn_user_actitities/destination/
+806,Greenwich Securities Limited,C:/python_work/bvn_user_actitities/destination/
+807,Afrinvest Securities Limited,C:/python_work/bvn_user_actitities/destination/
+808,Capital Assets Limited,C:/python_work/bvn_user_actitities/destination/
+809,GTI Securities LTD,C:/python_work/bvn_user_actitities/destination/
+810,Stanbic IBTC Stockbrokers,C:/python_work/bvn_user_actitities/destination/
+811,Centrepoint Investments Limited,C:/python_work/bvn_user_actitities/destination/
+812,Reward Investments and Services LTD,C:/python_work/bvn_user_actitities/destination/
+813,Enterprise Stock Brokers Plc,C:/python_work/bvn_user_actitities/destination/
+814,Securities Africa Financial Limited,C:/python_work/bvn_user_actitities/destination/
+815,Planet Capital Limited,C:/python_work/bvn_user_actitities/destination/
+816,Core Trust and Investment Limited,C:/python_work/bvn_user_actitities/destination/
+817,TrustBanc Capital Management Limited,C:/python_work/bvn_user_actitities/destination/
+818,Pyramid Securities Limited,C:/python_work/bvn_user_actitities/destination/
+819,Calyx Securities Limited,C:/python_work/bvn_user_actitities/destination/
+820,Compass Investment and Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+821,Accion Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+822,RENMONEY MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+823,NORRENBERGER SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+824,First Integrated Capital Management Ltd,C:/python_work/bvn_user_actitities/destination/
+825,Foresight Securities & Investment Ltd,C:/python_work/bvn_user_actitities/destination/
+826,SFC Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+827,Qualinvest Capital Limited,C:/python_work/bvn_user_actitities/destination/
+828,Fortress Capital Ltd,C:/python_work/bvn_user_actitities/destination/
+829,Cordros Capital Ltd,C:/python_work/bvn_user_actitities/destination/
+830,Nigerian International Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+831,Gidauniya Investment Ltd,C:/python_work/bvn_user_actitities/destination/
+832,UNITED CAPITAL SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+834,Interstate Securities Limited,C:/python_work/bvn_user_actitities/destination/
+836,Coronation Securities Limited,C:/python_work/bvn_user_actitities/destination/
+837,HERITAGE CAPITAL MARKETS LTD,C:/python_work/bvn_user_actitities/destination/
+838,Magnartis Finance and Investment Ltd,C:/python_work/bvn_user_actitities/destination/
+839,KUNDILA FINANCE SERVICES LTD,C:/python_work/bvn_user_actitities/destination/
+840,TRADE LINK SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+841,APT securities and Funds Limited,C:/python_work/bvn_user_actitities/destination/
+842,Dominion Trust Ltd,C:/python_work/bvn_user_actitities/destination/
+843,ECL Asset Management Limited,C:/python_work/bvn_user_actitities/destination/
+844,ROSTRUM INVESTMENT & SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+845,Mutual Alliance Inv. & Sec Ltd,C:/python_work/bvn_user_actitities/destination/
+846,NIGERIAN STOCKBROKERS LIMITED,C:/python_work/bvn_user_actitities/destination/
+847,SIGNET INVESTMENTS & SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+848,CENTURY SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+849,EDC SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+850,MARRIOT SECURITIES & INVESTMENT CO. LTD,C:/python_work/bvn_user_actitities/destination/
+851,Vetiva Securities Limited,C:/python_work/bvn_user_actitities/destination/
+852,Molten Trust Ltd,C:/python_work/bvn_user_actitities/destination/
+854,Primera Africa Securities Limited,C:/python_work/bvn_user_actitities/destination/
+855,FSDH SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+856,SPRING TRUST & SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+857,PEACE CAPITAL MARKET LTD,C:/python_work/bvn_user_actitities/destination/
+858,Eurocomm Securities limited,C:/python_work/bvn_user_actitities/destination/
+859,Pilot Securities Limited,C:/python_work/bvn_user_actitities/destination/
+860,Sigma Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+861,FORTIS MICROFINANCE BANK PLC,C:/python_work/bvn_user_actitities/destination/
+862,Rowet Capital Management Ltd,C:/python_work/bvn_user_actitities/destination/
+863,IMPERIAL ASSET MANAGERS LIMITED,C:/python_work/bvn_user_actitities/destination/
+864,Associated Asset Managers Limited,C:/python_work/bvn_user_actitities/destination/
+865,TRW STOCKBROKERS LTD,C:/python_work/bvn_user_actitities/destination/
+866,LEAD SECURITIES AND INVESTMENT LIMITED,C:/python_work/bvn_user_actitities/destination/
+867,First stock broker Ltd,C:/python_work/bvn_user_actitities/destination/
+868,del_ADONAI STOCKBROKERS LTD,C:/python_work/bvn_user_actitities/destination/
+869,ARM,C:/python_work/bvn_user_actitities/destination/
+871,GLOBALVIEW CONSULT & INVESTMENTS LTD,C:/python_work/bvn_user_actitities/destination/
+872,MERISTEM STOCKBROKERS LIMITED,C:/python_work/bvn_user_actitities/destination/
+873,WSTC FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+874,AFRICAN ALLIANCE STOCKBROKERS LTD,C:/python_work/bvn_user_actitities/destination/
+875,QUANTUM SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+876,DUNBELL SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+877,Chapel Hill Denham Securities Limited,C:/python_work/bvn_user_actitities/destination/
+878,Diamond Securities Limited,C:/python_work/bvn_user_actitities/destination/
+879,CAPITAL BANCORP  PLC,C:/python_work/bvn_user_actitities/destination/
+880,APEL ASSET LTD,C:/python_work/bvn_user_actitities/destination/
+881,COWRY SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+882,FBN MERCHANT BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+884,Futureview Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+885,FIRST GENERATION MORTGAGE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+886,Infinity Trust Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+887,SECURITIES AND CAPITAL AMANGEMENT COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+888,HAGGAI MORTGAGE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+889,FBN SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+890,INVESTMENT ONE STOCKBROKERS INT'L LTD,C:/python_work/bvn_user_actitities/destination/
+891,Pagatech Limited,C:/python_work/bvn_user_actitities/destination/
+892,Lambeth Trust & Inv Co. Ltd,C:/python_work/bvn_user_actitities/destination/
+893,ELIXIR SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+900,NIBSS,C:/python_work/bvn_user_actitities/destination/
+900,NIBSSBVNSDK,C:/python_work/bvn_user_actitities/destination/
+901,visual ict ltd,C:/python_work/bvn_user_actitities/destination/
+902,AELLA FINANCIAL SOLUTIONS,C:/python_work/bvn_user_actitities/destination/
+903,JUBILEE-LIFE MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+904,Edgefield Capital Management Ltd,C:/python_work/bvn_user_actitities/destination/
+905,CHARTWELL SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+906,Livingtrust Mortgage Bank Plc,C:/python_work/bvn_user_actitities/destination/
+907,IMPERIAL HOMES MBL,C:/python_work/bvn_user_actitities/destination/
+908,Transworld Invesment & Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+909,ARM Investment Managers,C:/python_work/bvn_user_actitities/destination/
+910,Bank of Agriculture,C:/python_work/bvn_user_actitities/destination/
+912,EFCC,C:/python_work/bvn_user_actitities/destination/
+913,Feghas Solutions Ltd,C:/python_work/bvn_user_actitities/destination/
+914,Heartbeat Investments Limited,C:/python_work/bvn_user_actitities/destination/
+915,SEED CAPITAL MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+916,ADONAI STOCKBROKERS LTD,C:/python_work/bvn_user_actitities/destination/
+917,TRUSTHOUSE INVESTMENTS LIMITED,C:/python_work/bvn_user_actitities/destination/
+918,CROWN CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+919,NPF Micro finance Bank,C:/python_work/bvn_user_actitities/destination/
+920,AG Mortgage Bank Plc,C:/python_work/bvn_user_actitities/destination/
+921,FIRST TRUST MORTGAGE BANK PLC,C:/python_work/bvn_user_actitities/destination/
+922,VALUELINE SECURITIES & INVESTMENTS LTD,C:/python_work/bvn_user_actitities/destination/
+923,KAPITAL CARE TRUST & SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+924,FINANCIAL TRUST CO. NIG LTD,C:/python_work/bvn_user_actitities/destination/
+926,CAPITAL TRUST BROKERS LTD,C:/python_work/bvn_user_actitities/destination/
+927,HEDGE SECURITIES & INV.CO.LTD,C:/python_work/bvn_user_actitities/destination/
+928,del_SunTrust Bank,C:/python_work/bvn_user_actitities/destination/
+929,MKUDI,C:/python_work/bvn_user_actitities/destination/
+930,OHAFIA MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+931,Federal Mortgage Bank of Nigeria,C:/python_work/bvn_user_actitities/destination/
+932,AIRTEL,C:/python_work/bvn_user_actitities/destination/
+933,AMJU UNIQUE MFB,C:/python_work/bvn_user_actitities/destination/
+934,AMCON,C:/python_work/bvn_user_actitities/destination/
+935,BANK OF INDUSTRY,C:/python_work/bvn_user_actitities/destination/
+936,Prudential,C:/python_work/bvn_user_actitities/destination/
+938,EMPIRE TRUST MFB,C:/python_work/bvn_user_actitities/destination/
+939,AMML MFB,C:/python_work/bvn_user_actitities/destination/
+940,OTUKPO MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+941,WOODLAND CAPITAL MARKETS PLC,C:/python_work/bvn_user_actitities/destination/
+942,Travelex,C:/python_work/bvn_user_actitities/destination/
+943,TCF MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+944,AXA MANSARD INVESTMENTS LTD,C:/python_work/bvn_user_actitities/destination/
+945,Primera Credit Mfb Ltd,C:/python_work/bvn_user_actitities/destination/
+946,MEGA EQUITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+947,Global Asset  Management (NIG.) LTD,C:/python_work/bvn_user_actitities/destination/
+948,BOCTRUST MFB,C:/python_work/bvn_user_actitities/destination/
+949,Valmon Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+999,Bubayero Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+1001,Chams,C:/python_work/bvn_user_actitities/destination/
+1009,Solid Rock MFB Ltd,C:/python_work/bvn_user_actitities/destination/
+1678,PORTFOLIO ADVISERS LIMITED,C:/python_work/bvn_user_actitities/destination/
+2001,Konga,C:/python_work/bvn_user_actitities/destination/
+2011,Seamfix Nigeria Limited,C:/python_work/bvn_user_actitities/destination/
+2013,Page Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+2015,SAANA PAY,C:/python_work/bvn_user_actitities/destination/
+2222,Randalpha Microfinance Bank Nig. limited,C:/python_work/bvn_user_actitities/destination/
+9405,AXA MANSARD PENSION LTD.,C:/python_work/bvn_user_actitities/destination/
+11123,CAPSTONE MFB,C:/python_work/bvn_user_actitities/destination/
+12345,LEGEND MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+14587,Prestige Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+20007,UMUCHUKWU MFB NIG LTD,C:/python_work/bvn_user_actitities/destination/
+20008,NSUK MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+20009,UHURU MFB ABA,C:/python_work/bvn_user_actitities/destination/
+20010,Page International Financial Services Limited,C:/python_work/bvn_user_actitities/destination/
+25470,TEASYPAY,C:/python_work/bvn_user_actitities/destination/
+33123,Owotutu Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+33211,Chukwunenye MFB LTD Nnewi,C:/python_work/bvn_user_actitities/destination/
+34567,ADA MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+35123,ILARO POLY MFB LTD,C:/python_work/bvn_user_actitities/destination/
+40003,FEDETH MFB LTD,C:/python_work/bvn_user_actitities/destination/
+40172,Berkshire Finance Company Limited,C:/python_work/bvn_user_actitities/destination/
+40175,PERENNIAL FINANCE LTD,C:/python_work/bvn_user_actitities/destination/
+44043,GOOD NEIGHBOURS MFB LTD,C:/python_work/bvn_user_actitities/destination/
+44916,WOVEN FINANCE LIMTED,C:/python_work/bvn_user_actitities/destination/
+50219,CUB MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+50220,OCTOPUS MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+50362,GREENACRES MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+50373,Gwong Microfinance bank,C:/python_work/bvn_user_actitities/destination/
+50564,Verdant Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+50743,Peace MFB,C:/python_work/bvn_user_actitities/destination/
+51036,TANADI MFB,C:/python_work/bvn_user_actitities/destination/
+51113,SAFE HAVEN MFB,C:/python_work/bvn_user_actitities/destination/
+51336,AKU MFB,C:/python_work/bvn_user_actitities/destination/
+52147,E-Settlement INC,C:/python_work/bvn_user_actitities/destination/
+52525,FBC TRUST AND SECURITIES,C:/python_work/bvn_user_actitities/destination/
+57000,Nuture Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+57110,Federal Polytechnic Microfinance Bank LTD,C:/python_work/bvn_user_actitities/destination/
+57111,MAINLAND MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+57123,ISHIE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+57321,UNILORIN MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+57444,JEN MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+57639,NEWEDGE FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+58000,LUKEFIELD FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+58123,BRANCH INTERNATIONAL FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+59978,EVERDEN FINANCIAL SERVICE LIMITED,C:/python_work/bvn_user_actitities/destination/
+70110,Visa Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+70113,Moneytronics Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+70123,GARKI MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+70234,ACE MFB,C:/python_work/bvn_user_actitities/destination/
+76001,Eartholeum Networks,C:/python_work/bvn_user_actitities/destination/
+76123,READINGS INVESTMENTS LTD,C:/python_work/bvn_user_actitities/destination/
+76222,Snow Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+90111,MEMPHIS MFB LTD,C:/python_work/bvn_user_actitities/destination/
+90115,ANIOCHA MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+90527,OJOKORO MFB,C:/python_work/bvn_user_actitities/destination/
+90564,SUPREME_Disable,C:/python_work/bvn_user_actitities/destination/
+98657,Anchorage Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+98789,NGBO MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+100111,Winview Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+101000,Firmus MFB,C:/python_work/bvn_user_actitities/destination/
+101110,CORE CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+101111,Headway Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+101123,Eyowo Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+101150,SIMPLE FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+101234,OLOFIN OWENA MICRO FINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+102050,Fortis Mobile Money,C:/python_work/bvn_user_actitities/destination/
+102121,Business Support MFB,C:/python_work/bvn_user_actitities/destination/
+102458,MALACHY MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+102486,THOMAS GILTS FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+102560,GREENBNAK MFB LTD,C:/python_work/bvn_user_actitities/destination/
+104202,KUDA MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+111000,Ensure Insurance Plc,C:/python_work/bvn_user_actitities/destination/
+111110,ICON STOCKBROKERS LIMITED,C:/python_work/bvn_user_actitities/destination/
+111222,Comercio Partners Asset Management,C:/python_work/bvn_user_actitities/destination/
+111856,ARISE Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+111908,Glory Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+112000,FAST MFB,C:/python_work/bvn_user_actitities/destination/
+112333,ONEFI,C:/python_work/bvn_user_actitities/destination/
+123000,PILOT FINANCE LIMITED-NABOB,C:/python_work/bvn_user_actitities/destination/
+123456,Mutual Benefits MFB,C:/python_work/bvn_user_actitities/destination/
+123489,YCT Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+123865,EMERALDS MFB,C:/python_work/bvn_user_actitities/destination/
+124000,INITIATIVE FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+124791,CFS FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+125000,LECON FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+125487,REGENCY ASSET MANAGEMENT LTD,C:/python_work/bvn_user_actitities/destination/
+147890,Umuchinemere Procredit Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+147896,CROWNRISE FINANCE PLC,C:/python_work/bvn_user_actitities/destination/
+154789,Lovonus MFB,C:/python_work/bvn_user_actitities/destination/
+199405,TEKLA FACTORING AND FINANCE COMPANY,C:/python_work/bvn_user_actitities/destination/
+200010,QUITS FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+200011,ROSABON FINANCIAL SERVICES LTD,C:/python_work/bvn_user_actitities/destination/
+202020,PETRAMFB,C:/python_work/bvn_user_actitities/destination/
+202101,CRUTECH COMMUNITY MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+202102,FLOBAL FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+202105,Greenwich Merchant Bank,C:/python_work/bvn_user_actitities/destination/
+202106,Transkredit Finance Company,C:/python_work/bvn_user_actitities/destination/
+202107,BOROMU MFB LTD,C:/python_work/bvn_user_actitities/destination/
+202109,Tangerine Money,C:/python_work/bvn_user_actitities/destination/
+202110,CHANELLE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+202111,BLUEWHALES MFB LTD,C:/python_work/bvn_user_actitities/destination/
+202112,GMB MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+202113,Borstal MFB Ltd.,C:/python_work/bvn_user_actitities/destination/
+202114,ASTRA POLARIS MFB,C:/python_work/bvn_user_actitities/destination/
+202115,LINKS MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+202116,Monarch Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+202120,MOYOFADE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+202121,Fortress Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+202123,UZONDU MFB,C:/python_work/bvn_user_actitities/destination/
+202125,E-FINANCE COMPANY LTD,C:/python_work/bvn_user_actitities/destination/
+202126,Shepherd Trust Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+202127,ARAMOKO MICRO FINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+202128,LOTUS BANK,C:/python_work/bvn_user_actitities/destination/
+202129,First Heritage Mircofinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+202130,QUBE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+202131,REHOBOTH MFB NIG LTD,C:/python_work/bvn_user_actitities/destination/
+202132,Resolution Finance Limited,C:/python_work/bvn_user_actitities/destination/
+202135,Caretaker Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+202136,BANCORP FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+202138,Kingdom College Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+202139,Giwa Microfinance bank Limited,C:/python_work/bvn_user_actitities/destination/
+202140,ABSU MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+202142,SYSTEM SPECS,C:/python_work/bvn_user_actitities/destination/
+202143,Changan RTS Microfinance  Bank,C:/python_work/bvn_user_actitities/destination/
+202144,MIM FINANCE COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+202145,SAFEGATE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+202150,MOZFIN MFB LTD,C:/python_work/bvn_user_actitities/destination/
+202151,NOMASE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+202291,Joint Tax Board,C:/python_work/bvn_user_actitities/destination/
+211222,Mkobo Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+214000,BANEX MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+214123,PARKWAY PROJECTS LIMITED,C:/python_work/bvn_user_actitities/destination/
+214702,Fast Credit Limited,C:/python_work/bvn_user_actitities/destination/
+215478,Credite Capital Finance & Investment Ltd,C:/python_work/bvn_user_actitities/destination/
+221000,TF MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+221014,KREDI MONEY MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+221100,EBSU Microfinance  Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+221110,del_Visa Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+221111,Parkway Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+221123,OLOWOLAGBA MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+221128,INTERLAND MFB,C:/python_work/bvn_user_actitities/destination/
+221221,CEDAR MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+221223,Cooperative Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+221333,GTI MFB,C:/python_work/bvn_user_actitities/destination/
+221345,Baobab MicroFinance Bank,C:/python_work/bvn_user_actitities/destination/
+221456,FIRST MARINA TRSUT LTD,C:/python_work/bvn_user_actitities/destination/
+222111,del_TAJBank,C:/python_work/bvn_user_actitities/destination/
+222456,LETSHEGO MFB,C:/python_work/bvn_user_actitities/destination/
+232001,Lavender Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+232012,IZON MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+232022,Central Securities Clearing System Plc,C:/python_work/bvn_user_actitities/destination/
+232080,AMAC MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+232120,UMUNNACHI MFB,C:/python_work/bvn_user_actitities/destination/
+232123,MANNY MFB,C:/python_work/bvn_user_actitities/destination/
+232134,CHIBUEZE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+232333,LANDGOLD MFB LTD,C:/python_work/bvn_user_actitities/destination/
+232345,CALABAR MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+232415,Nigerian Stock Exchange,C:/python_work/bvn_user_actitities/destination/
+232999,BERACHAH MFB,C:/python_work/bvn_user_actitities/destination/
+251433,ITEX INTEGRATED SERVICES,C:/python_work/bvn_user_actitities/destination/
+252022,CENTRAL SECURITIES CLEARING SYSTEM PLC,C:/python_work/bvn_user_actitities/destination/
+252525,PIVOT CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+254710,Topmost Securities Limited,C:/python_work/bvn_user_actitities/destination/
+255556,PREEMINENT MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+256487,NIRSAL MICRO FINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+256879,FUTO MFB,C:/python_work/bvn_user_actitities/destination/
+258746,KadPoly Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+258796,Traders Trust Investment and Co ltd,C:/python_work/bvn_user_actitities/destination/
+258974,Fina Trust Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+259746,UNN MFB,C:/python_work/bvn_user_actitities/destination/
+260261,Ilisan Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+272525,DAYLIGHT MFB,C:/python_work/bvn_user_actitities/destination/
+302010,SHALOM INVESTMENT AND FINANACIAL  SERVICES LTD,C:/python_work/bvn_user_actitities/destination/
+323031,COVENANT MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+323232,CAMRY SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+325226,TOWER SECURITIES & INV. CO LTD,C:/python_work/bvn_user_actitities/destination/
+345678,Nova Merchant Bank,C:/python_work/bvn_user_actitities/destination/
+345768,APEL CAPITAL REGISTRARS,C:/python_work/bvn_user_actitities/destination/
+352541,POLYBADAN MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+362514,NFIU,C:/python_work/bvn_user_actitities/destination/
+365218,CashConnect Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+369854,ALLIANZBRIDGE FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+369874,BOSAK MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+378909,Association of Bureaux De change of Nigeria (ABCON),C:/python_work/bvn_user_actitities/destination/
+411002,Skystone Capital & Investment Limited,C:/python_work/bvn_user_actitities/destination/
+411010,TRINITY FINANCE LTD,C:/python_work/bvn_user_actitities/destination/
+411012,FIRST OPTION MFB LTD,C:/python_work/bvn_user_actitities/destination/
+411402,Alekun Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+411422,Unified Payment Services Ltd,C:/python_work/bvn_user_actitities/destination/
+411424,ZINTERNET NIGERIA LIMITED,C:/python_work/bvn_user_actitities/destination/
+411700,ABOVEONLY MFB LTD,C:/python_work/bvn_user_actitities/destination/
+411741,Maritime Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+411744,ISLAND MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+414785,NEPTUNE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+418576,EL-ELYON ALLIACES & SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+424242,ETRANZACT INTERNATIONAL PLC,C:/python_work/bvn_user_actitities/destination/
+432112,Corestep Microfinanc Bank,C:/python_work/bvn_user_actitities/destination/
+435362,VFD MFB,C:/python_work/bvn_user_actitities/destination/
+444222,EdFin Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+452411,Peniel Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+453627,Galaxy back bone,C:/python_work/bvn_user_actitities/destination/
+454112,Wetland Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+454123,PALMERA MICROFINANCE BANK NIG LTD,C:/python_work/bvn_user_actitities/destination/
+454411,Platinum Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+454546,APPLE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+454647,Opay Digital Services Ltd,C:/python_work/bvn_user_actitities/destination/
+455454,PALMCOAST MFB,C:/python_work/bvn_user_actitities/destination/
+455485,OCON SUCCESS MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+456456,PALMPAY LTD,C:/python_work/bvn_user_actitities/destination/
+456546,BOWEN MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+456777,Trust Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+456787,Chikum MFB,C:/python_work/bvn_user_actitities/destination/
+456987,Mainstreet Bank Capital Limited,C:/python_work/bvn_user_actitities/destination/
+457896,CRYSTAL FINANCE COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+475896,NNEW WOMEN'S MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+500000,0,C:/python_work/bvn_user_actitities/destination/
+500001,MAXIFUND INVESTMENTS AND SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500002,CASHVILLE INVESMENTS & SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500005,TRUST YIELDS SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500008,Centurion Registrars,C:/python_work/bvn_user_actitities/destination/
+500015,GROOMING MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+500021,FCMB MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+500022,ANCHORIA INVESTMENT AND SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500025,Pinefields Investment Services,C:/python_work/bvn_user_actitities/destination/
+500026,SAFETRUST MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+500029,TOMIL TRUST LIMITED,C:/python_work/bvn_user_actitities/destination/
+500030,APEL CAPITAL AND TRUST,C:/python_work/bvn_user_actitities/destination/
+500031,Nigeria Mortgage Refinance Company(NMRC),C:/python_work/bvn_user_actitities/destination/
+500032,Veritas Reg Ltd,C:/python_work/bvn_user_actitities/destination/
+500033,MERISTEM REGISTARS,C:/python_work/bvn_user_actitities/destination/
+500036,GTI ASSET MANAGEMENT & TRUST LIMITED,C:/python_work/bvn_user_actitities/destination/
+500043,LIGHTHOUSE ASSET MANAGEMENT,C:/python_work/bvn_user_actitities/destination/
+500045,Meridian Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+500046,MAINSTREET MFB,C:/python_work/bvn_user_actitities/destination/
+500047,Polyunwana Microfinance,C:/python_work/bvn_user_actitities/destination/
+500055,BAINES CREDIT MFB LTD,C:/python_work/bvn_user_actitities/destination/
+500056,RELIANCE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+500060,SPRINGBOARD TRUST AND INV. LTD,C:/python_work/bvn_user_actitities/destination/
+500070,SOLID ROCK SECURITIES & INVESTMENT,C:/python_work/bvn_user_actitities/destination/
+500071,AMYN INVESTMENTS,C:/python_work/bvn_user_actitities/destination/
+500072,NEW DAWN MICRO FINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+500079,PACE REGISTRARS,C:/python_work/bvn_user_actitities/destination/
+500090,DYNAMIC PORTFOLIO FINANCE CO LTD,C:/python_work/bvn_user_actitities/destination/
+500091,CardinalStone Registrars,C:/python_work/bvn_user_actitities/destination/
+500092,Arthur Steven,C:/python_work/bvn_user_actitities/destination/
+500093,VTNetwork Limited,C:/python_work/bvn_user_actitities/destination/
+500095,O3 CAPITAL NIGERIA LTD,C:/python_work/bvn_user_actitities/destination/
+500098,COUNTY FINANCE LTD,C:/python_work/bvn_user_actitities/destination/
+500099,CITIHOMES FINANCE COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+500100,KCMB MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+500101,AVA SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500102,MONEYTRUST,C:/python_work/bvn_user_actitities/destination/
+500103,IBILE MFB,C:/python_work/bvn_user_actitities/destination/
+500105,MISSION SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500106,SEEDVEST MFB,C:/python_work/bvn_user_actitities/destination/
+500107,ASSETMATRIX MFB LTD,C:/python_work/bvn_user_actitities/destination/
+500108,NOWNOW Digital Systems Limited,C:/python_work/bvn_user_actitities/destination/
+500109,ADDOSSER MFB,C:/python_work/bvn_user_actitities/destination/
+500130,XSLNCE MFB,C:/python_work/bvn_user_actitities/destination/
+500200,SURBPOLITAN MICROFINANACE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+500222,CSL STOCKBROKERS,C:/python_work/bvn_user_actitities/destination/
+500230,NURSAL BDC,C:/python_work/bvn_user_actitities/destination/
+500277,THE BRIDGE SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500300,REGENT MFB,C:/python_work/bvn_user_actitities/destination/
+500501,FIDFUND MFB,C:/python_work/bvn_user_actitities/destination/
+500505,NETWORK CAPITAL LTD,C:/python_work/bvn_user_actitities/destination/
+500506,SAGAMU MFB,C:/python_work/bvn_user_actitities/destination/
+500507,CHAMS MOBILE,C:/python_work/bvn_user_actitities/destination/
+500510,NIRSAL PLC,C:/python_work/bvn_user_actitities/destination/
+500511,LAPO MFB,C:/python_work/bvn_user_actitities/destination/
+500512,E-BARCS MFB,C:/python_work/bvn_user_actitities/destination/
+500513,MorganCapital Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+500514,EXOTIX CAPITAL,C:/python_work/bvn_user_actitities/destination/
+500515,FSL Securities Limited,C:/python_work/bvn_user_actitities/destination/
+500545,CROSSWORLD SECURITIES LTD,C:/python_work/bvn_user_actitities/destination/
+500599,CIT Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+500600,Development Bank of Nigeria,C:/python_work/bvn_user_actitities/destination/
+500700,FUNDVINE CAPITAL AND SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500707,PecanTrust Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+500708,SMADAC SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500710,FINANCIAL AND ANALYTICS CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+500713,INNOVECTIVES LIMITED,C:/python_work/bvn_user_actitities/destination/
+500717,Gateway Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+500719,HAREWOOD BDC,C:/python_work/bvn_user_actitities/destination/
+500725,TYNDALE SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500733,Jigawa Savings and Loans,C:/python_work/bvn_user_actitities/destination/
+500741,GOWANS MFB,C:/python_work/bvn_user_actitities/destination/
+500767,Cashcraft Asset Management,C:/python_work/bvn_user_actitities/destination/
+500771,EQUITY CAPITAL SOLUTIONS,C:/python_work/bvn_user_actitities/destination/
+500777,ARM SECURITIES,C:/python_work/bvn_user_actitities/destination/
+500987,Bestworth Assets & Trust Ltd,C:/python_work/bvn_user_actitities/destination/
+500999,NetplusDotCom Nigeria Limited,C:/python_work/bvn_user_actitities/destination/
+501230,Cardinal Stone Securities,C:/python_work/bvn_user_actitities/destination/
+501720,Tiddo Securities,C:/python_work/bvn_user_actitities/destination/
+502700,BOLKAZ BDC,C:/python_work/bvn_user_actitities/destination/
+503000,LIGHTHOUSE REGISTRARS,C:/python_work/bvn_user_actitities/destination/
+503711,GREENWICH REGISTRARS AND DATA SOLUTIONS LTD,C:/python_work/bvn_user_actitities/destination/
+504030,BCKASH MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+504714,DUNN LOREN MERRIFIELD SECURITIES,C:/python_work/bvn_user_actitities/destination/
+505050,FCT-Internal Revenue Service,C:/python_work/bvn_user_actitities/destination/
+505700,TRUSTBANC J6 MFB,C:/python_work/bvn_user_actitities/destination/
+506700,ZENITH SECURITIES,C:/python_work/bvn_user_actitities/destination/
+507730,CITI INVESTMENT CAPITAL,C:/python_work/bvn_user_actitities/destination/
+507770,FIDELITY FINANCE COMPANY,C:/python_work/bvn_user_actitities/destination/
+508710,ZION STOCKBROKERS & SECURITIES,C:/python_work/bvn_user_actitities/destination/
+509230,CASHRITE MFB,C:/python_work/bvn_user_actitities/destination/
+509741,APEKS MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+510700,ATLAS REGISTRARS,C:/python_work/bvn_user_actitities/destination/
+511030,AWO BDC,C:/python_work/bvn_user_actitities/destination/
+512140,EASTMAN MICROFINANCE BANK NIG LTD,C:/python_work/bvn_user_actitities/destination/
+515151,FFS Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+516100,HOPE PSB,C:/python_work/bvn_user_actitities/destination/
+520438,Coastline MFB LTD,C:/python_work/bvn_user_actitities/destination/
+522222,CONSUMER MFB,C:/python_work/bvn_user_actitities/destination/
+522512,STB MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+523030,NIGERIA POLICE MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+523031,WIZE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523032,PINNACLE BDC,C:/python_work/bvn_user_actitities/destination/
+523033,DIGIT EXCHANGE BDC,C:/python_work/bvn_user_actitities/destination/
+523034,MASTERS BDCLTD,C:/python_work/bvn_user_actitities/destination/
+523035,EXPRESS MONEY LINK,C:/python_work/bvn_user_actitities/destination/
+523036,ALWISAM INTL BDC,C:/python_work/bvn_user_actitities/destination/
+523037,TIMULI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523038,A & S BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523039,THRESHOLD OF TRUST BDC,C:/python_work/bvn_user_actitities/destination/
+523040,BENJID BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523041,NETWORK RELATED BDC,C:/python_work/bvn_user_actitities/destination/
+523042,RECEPTION BDC,C:/python_work/bvn_user_actitities/destination/
+523043,NASAD BDC,C:/python_work/bvn_user_actitities/destination/
+523044,CREDEX BDC,C:/python_work/bvn_user_actitities/destination/
+523045,BUSSINESS TIDES BDC,C:/python_work/bvn_user_actitities/destination/
+523046,NIQ BDC,C:/python_work/bvn_user_actitities/destination/
+523047,EMIN ABET BDC,C:/python_work/bvn_user_actitities/destination/
+523048,MARKET GLOBAL VIEW BDC,C:/python_work/bvn_user_actitities/destination/
+523049,SABIL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523050,FAVOUR BDC,C:/python_work/bvn_user_actitities/destination/
+523051,ZINDABAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523052,EVERYDAY CURRENCY BDC,C:/python_work/bvn_user_actitities/destination/
+523053,KC ECHETA BDC,C:/python_work/bvn_user_actitities/destination/
+523054,TIMELINE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523055,FRANCHAB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523056,ICELINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523057,MAJI KAWURI INTL BDC,C:/python_work/bvn_user_actitities/destination/
+523058,RIGHT DESTINATION BDC,C:/python_work/bvn_user_actitities/destination/
+523059,TRADOX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523060,POTTERHOUSE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523061,WINWIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523062,MCMENA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523063,ATETE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523064,AVAKS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523065,LORD MIKE BDC,C:/python_work/bvn_user_actitities/destination/
+523066,ASUIH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523067,OMAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523068,FOREIGN EXCHANGE BDC,C:/python_work/bvn_user_actitities/destination/
+523069,FERDINAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523070,OKPNOPKU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523071,NKALA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523072,ALL BLUES BDC,C:/python_work/bvn_user_actitities/destination/
+523073,GOLD BOND BDC,C:/python_work/bvn_user_actitities/destination/
+523074,DATTIJO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523075,ADDON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523076,BOK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523077,PENTAGON BDC,C:/python_work/bvn_user_actitities/destination/
+523078,TOMIL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523079,TABS BDC,C:/python_work/bvn_user_actitities/destination/
+523080,INTERCURRENCY EXCHANGE,C:/python_work/bvn_user_actitities/destination/
+523081,GMI BDC,C:/python_work/bvn_user_actitities/destination/
+523082,NURSIMAN BDC,C:/python_work/bvn_user_actitities/destination/
+523083,ACCORD BDC,C:/python_work/bvn_user_actitities/destination/
+523084,LARUSH BDC,C:/python_work/bvn_user_actitities/destination/
+523085,HICEL BDC,C:/python_work/bvn_user_actitities/destination/
+523086,LOCKWOOD BDC,C:/python_work/bvn_user_actitities/destination/
+523087,WISE VISION BDCV,C:/python_work/bvn_user_actitities/destination/
+523088,OCEAN POWER BDC,C:/python_work/bvn_user_actitities/destination/
+523089,VILLAGOLF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523091,MALIKA BDC,C:/python_work/bvn_user_actitities/destination/
+523092,GOLDEN SHELL BDC,C:/python_work/bvn_user_actitities/destination/
+523093,NASWAD BDC,C:/python_work/bvn_user_actitities/destination/
+523094,HENRY MC CATTY ASS BDC,C:/python_work/bvn_user_actitities/destination/
+523095,GREAT ALBERT BDC,C:/python_work/bvn_user_actitities/destination/
+523096,STANDOUT BDC,C:/python_work/bvn_user_actitities/destination/
+523097,WASAWA BDC,C:/python_work/bvn_user_actitities/destination/
+523098,JOHN BRIGHT BDC,C:/python_work/bvn_user_actitities/destination/
+523099,PACO JOHN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523100,S.AMINU BDC,C:/python_work/bvn_user_actitities/destination/
+523101,MID LAND BDC,C:/python_work/bvn_user_actitities/destination/
+523102,LION BDC,C:/python_work/bvn_user_actitities/destination/
+523103,CITY LAND BDC,C:/python_work/bvn_user_actitities/destination/
+523104,HACO BDC,C:/python_work/bvn_user_actitities/destination/
+523105,SONRIS BDC,C:/python_work/bvn_user_actitities/destination/
+523106,SAFE FORTE BDC,C:/python_work/bvn_user_actitities/destination/
+523108,TRUST KEY FUND BDC,C:/python_work/bvn_user_actitities/destination/
+523109,KRESTO PACO BDC,C:/python_work/bvn_user_actitities/destination/
+523110,COMSTAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523111,KLEAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523112,DEKIR BDC,C:/python_work/bvn_user_actitities/destination/
+523113,FADAMA BDC,C:/python_work/bvn_user_actitities/destination/
+523114,MOSS BDC,C:/python_work/bvn_user_actitities/destination/
+523115,VERTOPLUS BDC,C:/python_work/bvn_user_actitities/destination/
+523116,TORANTO BDC,C:/python_work/bvn_user_actitities/destination/
+523118,EASTFUND BDC,C:/python_work/bvn_user_actitities/destination/
+523119,RIMONO BDC,C:/python_work/bvn_user_actitities/destination/
+523120,LESCON BDC,C:/python_work/bvn_user_actitities/destination/
+523121,TRUE TRUST BDC,C:/python_work/bvn_user_actitities/destination/
+523122,AXIS BDC,C:/python_work/bvn_user_actitities/destination/
+523123,SYSTEMS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523124,FUNDSRITE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523125,MORGAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523126,CLIFPAUL BDC,C:/python_work/bvn_user_actitities/destination/
+523127,EDDYHOPE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523128,KAMKAZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523129,Xovia BDC Limited,C:/python_work/bvn_user_actitities/destination/
+523130,IBANASU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523131,COSANN BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+523132,OXFORD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523133,CONCERN BDC,C:/python_work/bvn_user_actitities/destination/
+523134,DUKO BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+523135,HANKOOK BDC,C:/python_work/bvn_user_actitities/destination/
+523136,SHEFIELD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523137,GIANTSTRIDE BDC,C:/python_work/bvn_user_actitities/destination/
+523138,WAVES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523139,LEO DE GREAT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523140,FUNDTRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+523141,MAFIGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+525252,Royal Trust Securities Limited,C:/python_work/bvn_user_actitities/destination/
+527061,INFINITY MFB LTD,C:/python_work/bvn_user_actitities/destination/
+532211,Sincere MFB,C:/python_work/bvn_user_actitities/destination/
+533230,PROMINENT SECURITIES,C:/python_work/bvn_user_actitities/destination/
+533231,PILLAR GATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533232,IBID BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533233,Castillo Torres BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533234,CASTLES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533235,BLUE DIAMOND BDC,C:/python_work/bvn_user_actitities/destination/
+533236,MIDLANDC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533237,SAFEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533238,ALEXCHRIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533239,PARADISE FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533240,NAMANI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533241,CHARTWELL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533242,MEGSTIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533243,RHEMAH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533245,MERION TRAVEL BDC,C:/python_work/bvn_user_actitities/destination/
+533246,OFOLIX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533247,ROCK-STAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533248,CHILK-DUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533249,JONIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533250,TENDEREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533251,BLUEPOND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533252,ADC GLOBAL BDC,C:/python_work/bvn_user_actitities/destination/
+533253,REXEL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533254,SET UP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533255,MIB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533256,COMPUSERVE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533257,EMZY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533258,RESSDIVA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533259,VERITAS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533260,GREENSTEM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533261,FIRST CAPITOL EXPRESS BDC,C:/python_work/bvn_user_actitities/destination/
+533262,AA SILLA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533263,DAN ABARI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533264,O LIX J BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533265,AUSE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533266,MABINAS BDC,C:/python_work/bvn_user_actitities/destination/
+533267,SAUKI FOREX EXCHANGE BDC,C:/python_work/bvn_user_actitities/destination/
+533268,ROLLERS FOREX  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533269,TAYO FOREX BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533270,SEEGNAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533271,HABDAMOL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533272,SOLHEDGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533273,MAIBURGAMA BDC,C:/python_work/bvn_user_actitities/destination/
+533274,TARU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533275,FRONT RUNNERS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533276,HUMBLE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533277,TWENTY TWENTY WISE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533278,THREE SIBLINGS BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+533279,UMMAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533280,AVIT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533281,AYK Funds BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533282,ZINTO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533283,ENBIT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533284,RHAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533285,HR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533286,Bustan BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533287,JE OKOYE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533288,ZOMMAH BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533289,Synot  BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533290,GOOD SHEPERED BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533291,FRALINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533292,OYINBO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533293,ZINTAX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533294,KANSAS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533295,U & C BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533296,New Century  BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533297,CITY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533298,MONEY MALL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533299,GOLDMARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533300,Lumo Cash  BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533301,NITCHEZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533302,LABORATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533303,Give & Collect BDC,C:/python_work/bvn_user_actitities/destination/
+533304,MAROON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533305,Depenable BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533306,VIDA SEM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533307,TAURUS BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533308,INTERFUND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533310,REPUBLIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533311,Hadaico BDC,C:/python_work/bvn_user_actitities/destination/
+533312,EMPIRICA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533314,RONFLOKS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533315,TRAVELLERS EVE GLOBAL BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533316,CARDIFF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533317,AL-JEREYE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533319,ONIMISI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533320,DIO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533321,MOUNTAIN TOP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533322,COGNATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533323,OLVIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533324,KANEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533325,A&C BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533326,SWAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533327,K.C.B Bureau de Change Ltd,C:/python_work/bvn_user_actitities/destination/
+533328,MIDLAND BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+533329,AVERIA BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533330,Romi Exchange Bureau de Change Ltd,C:/python_work/bvn_user_actitities/destination/
+533331,NESCHI GLOBAL BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533332,BBL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533333,KEYPOINT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533334,PENINSULA BDC,C:/python_work/bvn_user_actitities/destination/
+533335,AMTRAL BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533336,Stallion Gold Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533337,GABSON EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533338,NASHIHA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533339,Links Ultimate Standard  Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533340,TRAVELLERS CHOICE BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533341,MUAZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533342,LSF DINNE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533343,CHERISH BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533344,Express moneylink bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533345,PROTECTED BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533346,B. A SALGA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533348,DSI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533349,ORLU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533350,BIDLOTS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533351,PERFECT PLAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533352,HIGH CLASS BDC,C:/python_work/bvn_user_actitities/destination/
+533353,GUDUMBE ROYAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533354,SIONI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533355,MILLJAY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533356,SHA DAI INT NIG LTD (BDC),C:/python_work/bvn_user_actitities/destination/
+533357,ECLAT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533358,KATEKO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533359,AWUYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533360,PEARL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533361,SMART CARE GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533362,Dakare BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533363,MALACHAI EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533364,SCORBETIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533365,MAGNIFICENT  BUREAU DECHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533366,CORPORATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533367,Crown Exchange BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533368,Goodnature Bureau De Change LTD,C:/python_work/bvn_user_actitities/destination/
+533369,Whiteson Bureau De Change LTD,C:/python_work/bvn_user_actitities/destination/
+533370,ASHBETH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533371,Best Option Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533372,ROSIYKE BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533373,SAULAWA BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533374,ZATIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533375,NEW PLANET BDC,C:/python_work/bvn_user_actitities/destination/
+533376,Westville Bureau De Change Ltd,C:/python_work/bvn_user_actitities/destination/
+533377,DAYLIGHT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533378,PEANARD BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533379,CORADEEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533380,Doylan Bureau De Change Ltd,C:/python_work/bvn_user_actitities/destination/
+533381,CHRISTOGRACE  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533382,CRESCENTDEEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533384,TOPSHOT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533385,ACA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533386,GOODLIFE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533387,DEDON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533388,PARALLEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533389,MDD GALADANCHI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533390,MGBO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533391,MAIWURNO BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533392,SOUTHGATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533393,CTL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533394,GOMBAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533395,DURACELL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533396,RUBY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533397,WISDOM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533398,Multi Currency BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533399,NASWAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533400,SPREADING ROYAL BDC,C:/python_work/bvn_user_actitities/destination/
+533401,DE-HONEY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533402,PRIMO BDC NIG LTD,C:/python_work/bvn_user_actitities/destination/
+533403,TRUE REAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533404,DANDISHE BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+533406,FIRST MONEYCORP BDC,C:/python_work/bvn_user_actitities/destination/
+533407,MAYDEJ BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533408,VISTA VENTURES BDC,C:/python_work/bvn_user_actitities/destination/
+533409,MOAT HOB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533410,GAZAZ BDC TD,C:/python_work/bvn_user_actitities/destination/
+533411,FORESIGHT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533412,GENMAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533413,FAG FOREX BDC,C:/python_work/bvn_user_actitities/destination/
+533415,NOUVEAU FX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533416,PEACE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533417,CHIPTSTAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533418,GOLD SHOWERS BDC,C:/python_work/bvn_user_actitities/destination/
+533419,GOD'S MERCIES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533420,AMUGBARA TWO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533421,DOMINION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533422,CHANELLE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533423,CORDINATE BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533424,CROMAT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533426,FRANKEM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533427,DEEPPOINT BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533428,GIANT BDC,C:/python_work/bvn_user_actitities/destination/
+533429,FRUITS BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533430,NABOYI BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533431,GREAT ALBERT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533432,D.TOPHERS NIG LTD (BDC),C:/python_work/bvn_user_actitities/destination/
+533433,PARKERFUND BDC,C:/python_work/bvn_user_actitities/destination/
+533434,ATI BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533435,ARTCHRIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533436,NAKAS BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533437,OBEENAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533438,GOOD YEAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533439,JADOFFS BDC,C:/python_work/bvn_user_actitities/destination/
+533440,MANISSA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533441,FAVOURITE BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533442,EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533443,AV&C BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533444,EMPIRE BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+533445,REALMASTERPIECE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533446,EMMYBEST BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533447,HOMAGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533448,SALWA BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533449,KABARA BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533450,GODS GUIDE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533451,EMERALD AGENCIES LTD,C:/python_work/bvn_user_actitities/destination/
+533452,MEKUNE BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533453,GENELO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533454,Evergreen Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533455,GODSWILL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533456,RCF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533457,QARAN EXPRESS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533458,JETOLANI BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533459,PRISCA AND PRINCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533460,GEDEGWU BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533461,VALEX BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533462,Freshtart BDC Limited,C:/python_work/bvn_user_actitities/destination/
+533463,Zandam Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533464,Zamedi Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533465,NEOFAD BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533466,GLOSSARY BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533467,Above & Beyond Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533468,AEROSOFT BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533469,Taste Of Diamond Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533470,Pecunnia Bdc Ltd,C:/python_work/bvn_user_actitities/destination/
+533471, LOVONUS BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533472,FORTUNE BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533473,MUHIBBA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533474,ROYALTY FOREX RESOURCES,C:/python_work/bvn_user_actitities/destination/
+533475,CONTINENTAL BDC,C:/python_work/bvn_user_actitities/destination/
+533476,MONEY LINE TREASURY BDC,C:/python_work/bvn_user_actitities/destination/
+533477,PASSAGE GOLD BDC,C:/python_work/bvn_user_actitities/destination/
+533478,SURU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533480,HENRY MC CATHY ASSOCIATES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533484,S AMINU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533487,EMERGING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533488,NAPOLI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533489,TOKSMAIL BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533490,KASIM BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533491,ZEKWES BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533492,IMAM AHMAD BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533493,CHRISBON BDC,C:/python_work/bvn_user_actitities/destination/
+533494,DERAVINE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533495,AMIR CLEAN EXCHANGE BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533496,HAMMARK BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533497,ETIXIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533498,POWERBOSS BDC NIG LTD,C:/python_work/bvn_user_actitities/destination/
+533499,WHITTI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533500,MAIJIDDA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533501,HUI BDC,C:/python_work/bvn_user_actitities/destination/
+533502,PRAMEX BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533503,WHITESTAR BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533504,VIRGO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533505,GBODESHERRY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533506,Fountain BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533507,LUMEN CHRIST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533508,More blessing BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533510,TROPIC TIMES BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533511,REVELATION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533512,SOM NLEMZY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533513,Rotak  Bureau De Change,C:/python_work/bvn_user_actitities/destination/
+533514,CHELSEA BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533515,NUFAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533516,Light Trackers BDC Ltd.,C:/python_work/bvn_user_actitities/destination/
+533517,COUNTRYWIDE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533518,De-Movers Bureau De Change LTD,C:/python_work/bvn_user_actitities/destination/
+533519,BAGGAISA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533520,VICNERE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533521,WARMADO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533522,Treasure Harmony Bdc,C:/python_work/bvn_user_actitities/destination/
+533523,HAJIKAWU INVESTMENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533524,DYSS  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533526,CONSUMER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533528,JASAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533529,SALOGURU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533530,FRIENDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533531,Zabadeen Global Forex  BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533532,BB&B BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533533,EASY NETWORK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533534,SOPHIA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533535,BUYUK BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+533536,Cross country BDC,C:/python_work/bvn_user_actitities/destination/
+533537,CHIBUONAS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533538,EPOCH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533539,PENIEL BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+533540,JAVIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533541,SEASONS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533542,SOLUTIONS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533543,CATHERINE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533544,PEACOCK BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533545,COLONY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533546,ORGANIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533547,FIRST CURRENCY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533548,RANGE GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533549,D.ANA'IBI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533550,     AUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533551,COOLBUCK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533552,BF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533553,BOIG BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533554,JENIC BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533555,RWD BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533556,PROSPECT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533557,APEM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533558,TRUETRUST,C:/python_work/bvn_user_actitities/destination/
+533559,EFFEX BDC,C:/python_work/bvn_user_actitities/destination/
+533560,WHITE DIAMOND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533561,MUNTAZ BDC,C:/python_work/bvn_user_actitities/destination/
+533562,FIRST TROPIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533563,CHARITON BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+533564,ARISE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533565,REJOICE BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533566,Perry-Ferry Bureau,C:/python_work/bvn_user_actitities/destination/
+533567,AMEYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533568,LLOYDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533569,NOBLE TREASURE BUREAU DE CHANGE,C:/python_work/bvn_user_actitities/destination/
+533570,MASHA ALLAH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533571,ETHAN BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+533572, GOOD LAND BUREAU DE CHANGE LTD,C:/python_work/bvn_user_actitities/destination/
+533573,BETHESDA BDC,C:/python_work/bvn_user_actitities/destination/
+533574,Alsas BDC,C:/python_work/bvn_user_actitities/destination/
+533575,SUN RISEN GLOBAL BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+533576,Skitoka BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+533577,ADDCO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+533578,FOBLO BDC,C:/python_work/bvn_user_actitities/destination/
+534363,CRC Bureau limited,C:/python_work/bvn_user_actitities/destination/
+535689,CAPITAL EXPRESS SECURITIES,C:/python_work/bvn_user_actitities/destination/
+535788,Trident MFB,C:/python_work/bvn_user_actitities/destination/
+540230,EKONDO MFB,C:/python_work/bvn_user_actitities/destination/
+542542,FECETU MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+543212,AB MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+543622,Teasy Mobile,C:/python_work/bvn_user_actitities/destination/
+544444,Microvis Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+544446,Personal Trust MFB,C:/python_work/bvn_user_actitities/destination/
+545545,Upperlink Limited,C:/python_work/bvn_user_actitities/destination/
+547896,NOBLESERVE CAPITAL MANAGEMENT LIMITED,C:/python_work/bvn_user_actitities/destination/
+549355,VAS2Nets Technologies,C:/python_work/bvn_user_actitities/destination/
+549710,Delta Trust Mortgage Finance,C:/python_work/bvn_user_actitities/destination/
+551570,ORAUKWU MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+551711,FLUTTERWAVE TECHNOLOGY SOLUTIONS,C:/python_work/bvn_user_actitities/destination/
+555000,AL-HAYAT MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+555111,ISALE OYO MFB LTD,C:/python_work/bvn_user_actitities/destination/
+555555,Falcon Securities Ltd,C:/python_work/bvn_user_actitities/destination/
+556600,Advans La Fayette MFB,C:/python_work/bvn_user_actitities/destination/
+556700,Citycode Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+559807,BOJI BOJI MCROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+560700,PHRONESIS SECURITIES,C:/python_work/bvn_user_actitities/destination/
+565656,UIDC SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+566000,YES MFB,C:/python_work/bvn_user_actitities/destination/
+566001,Still Earth Capital Finance,C:/python_work/bvn_user_actitities/destination/
+566002,FETS,C:/python_work/bvn_user_actitities/destination/
+566003,Credit Afrique,C:/python_work/bvn_user_actitities/destination/
+566004,EQUITY ASSURANCE PLC,C:/python_work/bvn_user_actitities/destination/
+566500,FULLRANGE MFB,C:/python_work/bvn_user_actitities/destination/
+567654,Mutual Trust Mfb Ltd,C:/python_work/bvn_user_actitities/destination/
+567980,JESSEFIELDMFB,C:/python_work/bvn_user_actitities/destination/
+569821,FIRST MARINA TRUST LIMITED,C:/python_work/bvn_user_actitities/destination/
+570230,UNEX CAPITAL,C:/python_work/bvn_user_actitities/destination/
+576543,9 Payment Service Bank,C:/python_work/bvn_user_actitities/destination/
+578098,CORONATION REGISTRARS LIMITED,C:/python_work/bvn_user_actitities/destination/
+578764,Unilag Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+579525,Nigeria Navy  Microfinance  Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+580711,FCSL ASSET MANAGEMENT,C:/python_work/bvn_user_actitities/destination/
+585858,ANCHORIA ASSET MANAGEMENT LIMITED,C:/python_work/bvn_user_actitities/destination/
+586230,UNION CAPITAL MARKETS,C:/python_work/bvn_user_actitities/destination/
+587415,ADEYEMI COLLEGE STAFF MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+587469,Megapraise Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+587965,ROYAL EXCHANGE FINANCE CO. LTD,C:/python_work/bvn_user_actitities/destination/
+588522,MEZCREDIT FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+589076,AT&A INVESTMENTS LIMITED,C:/python_work/bvn_user_actitities/destination/
+589711,LAGOS BUILDING INVESTMENT COMPANY,C:/python_work/bvn_user_actitities/destination/
+589762,QUICKFUND MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+589763,NICHOLE FINANCE COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+590230,DEEP TRUST INVESTMENT,C:/python_work/bvn_user_actitities/destination/
+590989,Zuxx Nigeria Limited,C:/python_work/bvn_user_actitities/destination/
+590990,14987815,C:/python_work/bvn_user_actitities/destination/
+595959,FORTHRIGHT SECURITIES & INVESTMENTS LTD,C:/python_work/bvn_user_actitities/destination/
+598232,FORESIGHT MFB LTD,C:/python_work/bvn_user_actitities/destination/
+599030,ROYAL EXCHANGE  MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+599230,DE-LORDS SECURITIES,C:/python_work/bvn_user_actitities/destination/
+599231,Adunni BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+599232,Beauty Sky BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+599233,Sheffield Invest. Ltd,C:/python_work/bvn_user_actitities/destination/
+599234,VIC-CIL INTERNATIONAL BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599235,CONCLAVE BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+599236,COY OPTIONS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599237,DESERT FOX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599238,SELE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599239,ALMARKS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599240,PLEROMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599241,CALLYBEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599242,ICON AGIO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599243,KHAFZAS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599244,DEALERS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599245,CHIMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599246,VAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599247,FORTUNE BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+599248,GOLDMINE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599249,DEENA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599250,DENIC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599251,JUSTIX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599252,LOVONUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599253,MARFRED FOREX EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599254,AJANA BDC,C:/python_work/bvn_user_actitities/destination/
+599255,SYLVESTER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599256,SANNIPHIL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599257,SAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599258,ABDECO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599259,GOLDHALL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599260,BABBAN KAROFI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599261,BIMO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599262,ARROW CENTRE BDC,C:/python_work/bvn_user_actitities/destination/
+599263,BUSINESS ALLY BDC,C:/python_work/bvn_user_actitities/destination/
+599264,TM-LINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599265,GLASSYN RESOURCES BDC LTD ,C:/python_work/bvn_user_actitities/destination/
+599266,NUMBER 6 BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599267,Torotoroma BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+599268,Jonaz BDC,C:/python_work/bvn_user_actitities/destination/
+599269,FINANCIAL SPECTRUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599270,BASDAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599271,S AND J BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599272,READING BDC,C:/python_work/bvn_user_actitities/destination/
+599273,Projimpex BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599274,FRANKTOPSY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599275,INKIYA BDC,C:/python_work/bvn_user_actitities/destination/
+599276,MUCHI BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+599277,ZETAC BDC,C:/python_work/bvn_user_actitities/destination/
+599278,BASIS POINT EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599279,CLASSIC DIAMOND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599280,STULTIFY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599281,PILOT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599282,AL-GULAM INTERNATIONAL FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599283,GLORYLAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599284,SHYTON BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599285,CASTRO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599286,BESTWAY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599287,FADAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599288,TAXLANE PASSION CURRENCY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599289,CARRICK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599290,CHUKWUMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599291,CUPID INVESTMENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599292,Futureview BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599293,GREEN AND WHITE BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599294,HOME FRONT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599295,INSAF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599296,ZEMAH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599297,SONRIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599298,SABLES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599299,EMALIZESTH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599300,THOMPSON UK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599301,BISOLAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599302,RUWANSAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599303,LUGIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599304,MAIAGOGO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599305,MOSS ALLEN EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599306,NADEEM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599308,VANSON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599309,AXIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599310,CARNIVAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599311,OKPONOPKU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599312,NUCLEUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599313,PORTEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599314,REHOBOTH BDC,C:/python_work/bvn_user_actitities/destination/
+599315,SCADI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599316,TEMYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599317,UMMALKHAIR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599318,IRON HORSE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599320,WALTHAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599321,XENON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599322,ZETA GLOBAL BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599323,FIRSTFUNDS BDC,C:/python_work/bvn_user_actitities/destination/
+599324,CALCULUX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599325,WAPS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599326,JOY LAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599327,LINK FINE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599328,AL-HERI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599329,CHURCHHILL BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599330,YANBACO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599331,KHALIFA AND HANAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599332,MAISHUNI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599333,FAMLIL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599334,EXCLUSIVE COMBINATION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599335,GANI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599336,HALBA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599337,HASSAM BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599338,Metropolitan BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599339,FLIPTEX BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599340,GRADUAL PROCESS BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599341,KOMOWAY BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599342,PRUDENCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599343,RIVERGOLD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599344,QUILL PONTE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599345,MOSHEE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599346,ROYAL CHANNELS LINK BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599347,BLUE SLEEVER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599348,FUMSKY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599349,EQUIDEB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599350,DANIK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599351,BLUEBIRD BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599352,PREATY G LINES BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+599353,KABAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599354,OZY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599355,MUZY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599356,TRINDIM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599357,MAILABO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599358,Sugarland BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599359,GEORGIA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599360,LIFE SPRING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599361,LAGOON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599362,RILLY ROYAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599363,BIRTH RIGHT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599364,EKO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599365,AL’AMIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599366,STAJEN INVESTMENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599367,JENNIFEX  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599368,ALLENCO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599369,DBI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599370,BITYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599371,MAXIMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599372,ZBS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599373,DIRAX BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+599374,INTRODUCTION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599375,APEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599376,SOL-SOLLY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599377,OKWE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599378,SADOM CLEAN EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599379,HABIBULLAH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599380,TRAVELLERS CHOICE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599381,BIN YUSIF BIN HASSAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599382,UMUEZEALA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599383,GEET WELL BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599384,ST RITA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599385,PRINCE BETHEL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599386,EVERLEAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599387,SOJENI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599388,CDL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599389,AGGREGATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599390,Manilla Investments & Securities BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599391,PEEP AND PICK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599392,ECOMADEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599393,PROCON GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599394,GFEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599395,TRUST BUREAU DE CHANGE LIMITED,C:/python_work/bvn_user_actitities/destination/
+599396,MARVE AND PRINCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599397,ZARA MOHAMMED BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599398,IBEX LIMITED BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599399,COMTAI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599400,KING GEORGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599401,NIIV BDC,C:/python_work/bvn_user_actitities/destination/
+599402,ZUMUNCI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599403,SALASA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599404,ONE DE BDC,C:/python_work/bvn_user_actitities/destination/
+599405,Onyic BDC Ltd.,C:/python_work/bvn_user_actitities/destination/
+599406,Grimson Forex BDC Ltd.,C:/python_work/bvn_user_actitities/destination/
+599407,6JS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599408,RICKY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599409,JABIDAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599410,Cash Express BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+599411,ALHAJI MUKAILA ABUBAKAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599412,BMW BDC TD,C:/python_work/bvn_user_actitities/destination/
+599413,KARAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599414,FUNTUA CITY BDC,C:/python_work/bvn_user_actitities/destination/
+599415,R-SQUARE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599416,SAFEX EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599417,MAT-ARNI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599418,WESTLINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599419,WISEJEB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599420,HUDA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599422,OBIWEST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599423,POLYCHRIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599424,PREMIER MONEY TRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599425,EFFORT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599426,JIDDA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599427,MANTOL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599428,BANCTRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599429,KRUMATA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599430,Cafo BDC Ltd,C:/python_work/bvn_user_actitities/destination/
+599431,CIT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599633,GODDYSON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599634,MAMU MU-AH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599635,DOUBLE EH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599636,EMECO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599637,DAYSMAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599638,JEGAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599639,SURE MEASURE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599640,BELL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599641,THINKING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599642,ARISING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599643,EMINENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599644,SKYHIGH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599645,D.LAB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599646,DAWAKIN KALGWAI BDC,C:/python_work/bvn_user_actitities/destination/
+599647,HIKIMA BDC,C:/python_work/bvn_user_actitities/destination/
+599648,FRUITION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599649,BASIRA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599650,MAZAUNI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599651,SAMIRAT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599652,JAWWAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599653,LUCKY WAY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599654,CHYMES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599655,FELMAK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599656,IBW BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599657,AJINABAK BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599658,JATAU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599659,VICLIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599660,RUPSE BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599661,MOBILE FOREX EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599662,UTOPIAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599663,EMBRIX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599664,BANC TRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599665,ZELDA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599666,GLOBAL TRADE MARK  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599667,MAISHUNI ULTIMATE TRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599668,FLASH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599669,NUMARJA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599670,BULLION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599671,JUMBO CLEAN EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599672,STEADFAST TRUST INV COMPANY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599673,HAND TO HAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599674,KOJEM CONSORTIUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599675,DREAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599676,DAYIM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599677,YADIN B-YADIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599678,NEW LIFE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599679,8 TWENTY FOUR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599680,MOWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599681,STAKE HOLDERS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599682,PARIBAS VENTURES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599683,MALOBEE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599684,DESCENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599685,PRIME TIME BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599686,SUNNYSIDE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599687,STRETCHOUT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599688,JOMOS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599689,NATURAL BEAMS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599690,FORWARD MARKETING COMMUNICATION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599691,VIGAB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599692,VESTOR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599693,FHIO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599694,WOOD BRIDGE TRADING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599695,KINGS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599696,DIMEB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599697,KALANSAWI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599698,ABUBAKAR IBRAHIM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599699,HAYIHIM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599700,GABIL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599701,MARKETONE GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599702,MOMPHA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599703,SHUAIB AND SADIYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599704,COMPLETE DATA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599705,MCR GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599706,SUZANNA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599707,DENAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599708,AHM RAF BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599709,SIMPLE CASERA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599710,TYRON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599711,TATA FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599712,NETWORK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599713,TEENKEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599714,MIDTOWN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599715,DAKRY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599716,COMPASS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599717,FUTURE EXPRESS VIEW POINT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599718,MACSTEPHENSON INVESTMENT AND EXCANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599719,ANDOLIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599720,GAI GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599721,HILL STONE FOREX EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599723,EMDASH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599724,H &H BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599726,CAML BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599727,USTAZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599728,HIGH TARGET ZONE BDC,C:/python_work/bvn_user_actitities/destination/
+599729,BUSINESS ALLY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599730,ALHAQQ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599731,SLAMAD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599732,GFV BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599733,1-ONE-C BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599734,LEEP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599735,VICGEORGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599736,CHEZSYLVER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599737,MAIGIDANA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599738,GOODGATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599739,ASA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599740,DIVINE MANNA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599741,DIVULGATE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599742,CORNER FUNDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599743,OMZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599744,ACML BDC TD,C:/python_work/bvn_user_actitities/destination/
+599745,ARRIX INVESTMENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599746,YUMAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599747,ZODIAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599748,REINEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599749,TD SOFT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599751,WIA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599752,BORDILLON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599753,PREMIER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599754,UPS-MONEY EXPRESS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599755,FIDELLA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599756,NEW TOWN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599757,RODNEYS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599758,PILILI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599759,DOUBLE QUEST MUTI LATERAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599760,IN TO IN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599761,SADAMS FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599762,AGNUS DEI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599763,HERBARLTOR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599764,DANKUNNE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599765,MARVEL KONREV BDC,C:/python_work/bvn_user_actitities/destination/
+599766,BERYL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599767,UPSTREAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599768,CHI-BERT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599769,LARREATH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599771,KUGURU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599772,M&B VENTURES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599773,KENNOD GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599774,DOWN TOWN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599775,LITEUP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599776,KANKAROFI SARKI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599777,OME BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599778,BEAU REVAGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599779,STATUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599780,MOBILITY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599781,ABC. AKUDI BUS CO . BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599782,REACH TOP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599783,KOFANA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599785,MAIL BAYAJIDE VENTURES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599786,ALPHA CONCEPT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599787,LUCID BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599790,ZULU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599791,JZONE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599792,HINETWORTH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599793,KAYEWD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599794,ZABONE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599795,FUCHEDU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599796,AJARI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599797,RAINPOWER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599798,OSAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599799,FARI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599800,JEGEEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599801,CREATIVE CHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599802,E-LLOYDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599803,ABACHUX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599804,NGALAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599806,MULTI-STREAMS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599808,LURIDE FINANCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599809,PATIZ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599810,AL-MABAROORA BDC,C:/python_work/bvn_user_actitities/destination/
+599811,GEZAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599812,TIME POINT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599813,INFLUENTIAL GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599814,REVENUE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599815,EMCEL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599816,SPECTRUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599817,EVERFIRST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599818,LIFT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599819,GRANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599820,SKYWARD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599821,DIEU PUISSANT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599822,HARGO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599823,OAK & EBONY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599824,SWANLAKE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599825,RAHAMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599826,BESTWAY HOTELS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599827,KURNA   BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599828,COMCRISS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599829,METAL BASE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599830,FEMOUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599831,UMAOBA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599832,LEGEND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599833,HEREISUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599834,GHAML BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599835,ACTIVE TRADE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599836,LANE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599837,STEADFAST TRUST AND INVESTMENT COY. BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599838,SAPHIRE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599839,FINSPECT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599841,VISION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599842,BROMLESS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599843,SAMIMAYJUS BC LTD,C:/python_work/bvn_user_actitities/destination/
+599844,OLIVE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599845,MAMAS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599846,ZION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599847,REZEMNLANCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599848,SAUDAT  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599849,SIL-THEO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599850,PA- BELL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599851,GRANOBLE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599852,REALITY SHOW BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599853,SILVERSWAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599854,GOLD & SILVER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599855,POWERTRAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599856,SHABELL GLOBAL BDC LIMITED,C:/python_work/bvn_user_actitities/destination/
+599857,EXACT CHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599858,FIRST COMERS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599859,VINEYARD  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599860,ARI-KEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599861,WHOLE FIGURES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599862,PATMARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599863,QUICKFUNDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599864,EMERALD AGENCIES  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599865,SECUNDA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599866,DAMEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599867,TOP RANK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599868,STARMARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599869,ZILLION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599870,WEALTHSTREAMS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599871,FIRST ANCHOR  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599872,ARLINGTON  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599873,WELLHOUSE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599874,ENCRESSER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599875,SHINNING STAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599876,RISING STAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599877,MBH HYDRO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599878,S-CORP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599879,EJIGIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599880,KOMESTICAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599881,TRAVEL XCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599882,BEKOY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599883,GBY SURE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599884,SUNTHEL TRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599885,COOL BLUE LIGHT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599886,NEWAY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599887,GAADI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599888,CHIDOMCY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599889,MARCELO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599890,ALZANG BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599891,YASMIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599892,MAISINGA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599893,HARVEST INVESTMENT BDC LTDD,C:/python_work/bvn_user_actitities/destination/
+599894,BIJE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599895,KUDIDIFAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599896,HALAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599897,LIPE LINE EXCHHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599898,HESTA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599899,CASSLINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599900,MEMOIR WILLS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599901,SOLID FORTUNE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599902,CEDAR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599903,DOMAIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599904,CUSTOMER FOCUS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599905,ISI CAPITAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599907,H. J. TRUST AND INVESTMENT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599909,ROVER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599910,COOLSWORTH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599911,MANOR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599912,QUEEN HERITAGE ECHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599913,SULELABBO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599914,SHARKAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599916,BB & CG IRON SAFE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599917,IGHO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599918,HIGERGROUND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599919,M&D BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599920,STRENCH VIEW BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599921,HENEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599922,BRIDGING THE GAP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599923,KATCHY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599924,DILYSFLORA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599925,SANGA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599926,SWAB BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599927,HADEZEEX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599928,HYBRID BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599929,NAFALKE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599930,OSMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599931,SADOB BC LTD,C:/python_work/bvn_user_actitities/destination/
+599932,MARYROSELUCY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599933,PST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599935,SOUND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599936,L.K.G BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599937,MAI MARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599938,MCC PRIME BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599939,CHI-KANONEB BC LTD,C:/python_work/bvn_user_actitities/destination/
+599940,KESBE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599941,ELITE CLEAN EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599942,ALTERNATIVE SOURCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599944,LEKAY LEADS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599945,SECTOR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599946,HMU  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599947,BEST DEAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599948,ANTHINA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599949,BENNIE MOORE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599950,AMAZON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599951,OLIGBO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599952,IVY OPTIONS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599953,KAFOD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599954,GLOBAL STONECREST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599955,DAMBIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599956,ZIBRAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599957,CONNECT FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599958,GREAT AFRICA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599959,FAITHREEL GLOBAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599960,DISCOUNT EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599961,ZAITUN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599962,SETHWEALTH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599965,FEEDERS FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599966,ENDLESS FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599967,REGION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599968,ROLLING STONE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599969,X-REF EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599970,FINDER INTERNATIONAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599971,GALATIN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599975,GOLDCOM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599976,LEXMARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599977,ADORATION BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599978,PERFECTA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599979,KANDATA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599980,WORLDCLASS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599981,MULTIGOLD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599982,DISCOUNT EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599983,TULIP BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599985,8-TWENTYFOUR BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599986,CT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599988,SPRINGFIELD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599989,AKUABATA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599990,SOZO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599991,KHADIJIMA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599992,TROPICAL SPECTRUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599995,WURO NAI BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+599996,SABONGARIN YAYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599997,ZININI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599998,DAN RAJI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+599999,MICKEN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600000,CROWNFIELD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600001,BAGA EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600002,ABIHALI BUREAU BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600003,MAISAKAINU BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600004,SILVER EXCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600005,SAGALAXY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600006,FAGEN DARE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600007,ERONMON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600008,MARCITY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600009,HASBASH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600010,ELIDAK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600011,MIMSHACH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600013,MILAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600014,MONTEX FOREX BDC,C:/python_work/bvn_user_actitities/destination/
+600015,ZANGO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600016,YOMADE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600017,SDA BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600018,HADUM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600019,COWRIE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600020,VICTORIOUS MONETA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600021,INTERCHANGE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600022,MELKCO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600023,MIG BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600024,SUSAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600025,SUPPORT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600027,KLEMSON  BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600028,MONJOK BC LTD,C:/python_work/bvn_user_actitities/destination/
+600029,ROYALTY FOREX RESOURCES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600030,DAMATRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600031,ROSETTE  BDC LTD.,C:/python_work/bvn_user_actitities/destination/
+600032,WIDE ATLANTIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600033,SHEKEL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600034,EGOLINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600035,CUPLANE FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600036,MORNYLINK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600037,HONEYCOMB FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600038,BLOSSOM BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600039,NEDERLAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600040,CREAM BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600041,ECHO MAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600042,SHAKA GENESIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600043,TYL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600044,ALLAN COWRY BDC,C:/python_work/bvn_user_actitities/destination/
+600045,ECLOUDS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600046,SMART CASH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600047,NAT WEST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600048,JBFN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600049,CITY CASH EXPRESS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600050,MART MONDIAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600051,DAI VENTURES BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600052,LONG ISLAND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600053,DARICO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600054,AMALYA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600055,MSI  BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600056,H&H BDC NIG LTD,C:/python_work/bvn_user_actitities/destination/
+600057,AYMAN BDC  LTD,C:/python_work/bvn_user_actitities/destination/
+600058,JOSHESTHER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600059,READY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600060,CANAC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600063,THREE BROTHERS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600064,BOBORI BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600065,DIZA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600066,DAN SAMBO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600068,TICK STAKE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600069,MENKAT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600070,SHEBAH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600071,AGRICOLE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600072,RICHY CNO BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600073,MYRA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600074,SMILE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600075,MAMMAN GARAJE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600076,GAMAL FOREX INT'L BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600077,BIN ISHAQ BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600078,JN BDC NIG. LTD,C:/python_work/bvn_user_actitities/destination/
+600079,QUB-MKH BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600080,ARREARS FOREX BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600081,SOUTHEND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600082,EXOTIC INT'L BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600083,JCC BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600084,HEARTY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600085,LEKSBAN BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600086,PARITY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600087,CORPORATE TRUST BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600088,TOUR REVIVAL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600089,TABS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600090,SANI BISALLA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600091,SUNMART BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600092,AMAZING BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600093,BENSLEY BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600094,ELLIS BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600095,LAMBLIGHT BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600096,FRIROSA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600097,AXEL BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600098,ADAGE FINANCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600099,IKON BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600100,HOLLAND PARK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600101,JOHN AND JOYCE BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600102,KARABUK BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600103,SHIELD BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600104,KINGFISHER BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600105,JIRGABAWA BDC LTD,C:/python_work/bvn_user_actitities/destination/
+600106,QUICK LINK BDC,C:/python_work/bvn_user_actitities/destination/
+600107,ESTON FUND BDC LTD,C:/python_work/bvn_user_actitities/destination/
+606060,AFRICA PRUDENTIAL,C:/python_work/bvn_user_actitities/destination/
+616161,Homebase Mortgage Bank Limited,C:/python_work/bvn_user_actitities/destination/
+626262,HASAL MFB LTD,C:/python_work/bvn_user_actitities/destination/
+636363,PROGRESS TRUST CPFA LIMITED,C:/python_work/bvn_user_actitities/destination/
+643384,GTI Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+646464,UNAAB MFB LTD,C:/python_work/bvn_user_actitities/destination/
+652254,ATBU MICRO FINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+653423,Development Bank of Nigeria Plc,C:/python_work/bvn_user_actitities/destination/
+653647,MBC SECURITIES LIMITED,C:/python_work/bvn_user_actitities/destination/
+656565,GRUENE CAPITAL LTD,C:/python_work/bvn_user_actitities/destination/
+656624,UNIUYO MFB,C:/python_work/bvn_user_actitities/destination/
+658475,PATRICKGOLD MFBANK,C:/python_work/bvn_user_actitities/destination/
+658547,Stockcorp MFB,C:/python_work/bvn_user_actitities/destination/
+658741,SULSPAP MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+666012,FINCA Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+666789,Inlaks Computers Limited,C:/python_work/bvn_user_actitities/destination/
+666999,Cellulant,C:/python_work/bvn_user_actitities/destination/
+676543,FINANCE & COMMERCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+676767,Mutual Alliance Mortgage Bank,C:/python_work/bvn_user_actitities/destination/
+677850,MIDLAND MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+678000,Trustfund Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+678065,FAME MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+678094,EVERGREEN MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+678123,Opay Digital Services Ltd,C:/python_work/bvn_user_actitities/destination/
+686868,MAYFRESH MORTGAGE BANK,C:/python_work/bvn_user_actitities/destination/
+695874,ALERT MFB,C:/python_work/bvn_user_actitities/destination/
+698521,Halal Credit Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+698547,Sparkle Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+700700,TRIPLE A MFB,C:/python_work/bvn_user_actitities/destination/
+700701,OMIYE MFB,C:/python_work/bvn_user_actitities/destination/
+702150,FEWCHORE FINANCE COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+707675,Lotus Capital Limited,C:/python_work/bvn_user_actitities/destination/
+765432,Credit direct,C:/python_work/bvn_user_actitities/destination/
+777000,FundQuest Financial Services Limited,C:/python_work/bvn_user_actitities/destination/
+786459,IKENNE MFB,C:/python_work/bvn_user_actitities/destination/
+786545,FBNQUEST ASSET MANAGEMENT,C:/python_work/bvn_user_actitities/destination/
+789000,Richway Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+789654,MBL FINANCIAL SERVICES LIMITED,C:/python_work/bvn_user_actitities/destination/
+800123,Ensure Insurance,C:/python_work/bvn_user_actitities/destination/
+805260,Crane Securities Limited,C:/python_work/bvn_user_actitities/destination/
+828555,REPHIDIM MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+855882,IKIRE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+873548,Qrios Networks Limited,C:/python_work/bvn_user_actitities/destination/
+876354,Paystack Limited,C:/python_work/bvn_user_actitities/destination/
+876543,Good News Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+879654,PARADIGM FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+888901,AFEKHAFE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+890665,SEAP Micro-finance Bank,C:/python_work/bvn_user_actitities/destination/
+895326,MAYFAIR MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+896587,GDL Finance & Leasing Company Ltd,C:/python_work/bvn_user_actitities/destination/
+897564,Molusi Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+900000,NIBSS-APP SUPPORT,C:/python_work/bvn_user_actitities/destination/
+900221,SUPPORT MICRO FINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+900600,PSL CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+900800,PENNYWISE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+900801,IRL MICRO FINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+900802,Eagle Flight Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+900803,REDOAK TRUST AND INVESTMENT LTD,C:/python_work/bvn_user_actitities/destination/
+900804,AIICO Capital Limited,C:/python_work/bvn_user_actitities/destination/
+900808,Stellas Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+900822,SLS Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+900900,ESAN MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+900901,Factoring & Supply Chain Finance,C:/python_work/bvn_user_actitities/destination/
+909567,Excellent Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+913333,EFCC new,C:/python_work/bvn_user_actitities/destination/
+965874,IMO STATE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+967000,FIRST ROYAL MFB,C:/python_work/bvn_user_actitities/destination/
+968547,Oche Mfb Ltd,C:/python_work/bvn_user_actitities/destination/
+974583,FEDPOLY NASARAWA MFB,C:/python_work/bvn_user_actitities/destination/
+987456,Alternative capital partners limited,C:/python_work/bvn_user_actitities/destination/
+987546,ASO SAVINGS AND LOANS PLC,C:/python_work/bvn_user_actitities/destination/
+987654,NWANNEGADI MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+989022,ASPIRE MICRO FINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+989098,Nathan Finance Company Limited,C:/python_work/bvn_user_actitities/destination/
+990134,ASSETS MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+990876,AZTEC  MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999000,ROCKSHIELD MFB,C:/python_work/bvn_user_actitities/destination/
+999012,FAIRMONEY MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+999019,CANDOURCREST FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+999089,Nasarawa Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999099,Alvana Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999111,Mercury Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999120,MICROBIZ MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+999123,ICPC,C:/python_work/bvn_user_actitities/destination/
+999125,Firstmidas Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999226,CANAAN MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+999235,Bejin-doko MFB,C:/python_work/bvn_user_actitities/destination/
+999256,CLOVERLEAF MFB,C:/python_work/bvn_user_actitities/destination/
+999262,COAL CAMP MFB LTD,C:/python_work/bvn_user_actitities/destination/
+999266,Consistent Trust MFB,C:/python_work/bvn_user_actitities/destination/
+999272,ASHA MICROFINANACE BANK,C:/python_work/bvn_user_actitities/destination/
+999302,PURPLE MONEY MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+999312,MODIYA MFB,C:/python_work/bvn_user_actitities/destination/
+999321,DavoDani Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+999322,Ospoly Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+999346,AAA FINANCE AND INVESTMENT COMPANY LIMITED,C:/python_work/bvn_user_actitities/destination/
+999368,Dot Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+999394,BAYETIN MFB,C:/python_work/bvn_user_actitities/destination/
+999423,Gadol Financial Services Limited,C:/python_work/bvn_user_actitities/destination/
+999424,Kadick Integrated Limited,C:/python_work/bvn_user_actitities/destination/
+999443,IC-GLOBAL MFB,C:/python_work/bvn_user_actitities/destination/
+999444,GBEDE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+999456,ILORA MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999457,GLOBAL ACCELEREX LIMITED,C:/python_work/bvn_user_actitities/destination/
+999466,Gombe Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+999496,IMOWO MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+999520,KC MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999528,KAYVEE MFB Ltd,C:/python_work/bvn_user_actitities/destination/
+999552,Spectrum Microfinance Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+999565,Okuku MFB,C:/python_work/bvn_user_actitities/destination/
+999567,Bishop Gate MFB,C:/python_work/bvn_user_actitities/destination/
+999612,TOP RATE MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+999613,NICE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+999624,MAIN TRUST MFB,C:/python_work/bvn_user_actitities/destination/
+999648,MINT-FINEX MFB,C:/python_work/bvn_user_actitities/destination/
+999656,OJOKORO MFB,C:/python_work/bvn_user_actitities/destination/
+999667,Moneymaster Ltd,C:/python_work/bvn_user_actitities/destination/
+999676,BORGU MFB,C:/python_work/bvn_user_actitities/destination/
+999677,Orokam Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999724,SAGE GREY FINANCE LIMITED,C:/python_work/bvn_user_actitities/destination/
+999728,PATRICKGOLD MFB,C:/python_work/bvn_user_actitities/destination/
+999742,Shalom MFB,C:/python_work/bvn_user_actitities/destination/
+999744,RIGO MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999745,SHIELD MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999758,OAKLAND MICROFINANCE BANK LIMITED,C:/python_work/bvn_user_actitities/destination/
+999764,Smartcash,C:/python_work/bvn_user_actitities/destination/
+999765,Moniepoint Microfinance Bank Limited,C:/python_work/bvn_user_actitities/destination/
+999773,Pristine MFB,C:/python_work/bvn_user_actitities/destination/
+999786,SUNBEAM MFB LTD,C:/python_work/bvn_user_actitities/destination/
+999787,Supreme Microfinace Bank Ltd,C:/python_work/bvn_user_actitities/destination/
+999842,The Infrastructure Bank Plc,C:/python_work/bvn_user_actitities/destination/
+999868,UMUCHUKWU MFB NIG LTD,C:/python_work/bvn_user_actitities/destination/
+999873,Treasures MFB,C:/python_work/bvn_user_actitities/destination/
+999876,CROSS RIVER MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+999888,O3 CAPITAL LIMITED,C:/python_work/bvn_user_actitities/destination/
+999893,Gadol Financial Services Limited,C:/python_work/bvn_user_actitities/destination/
+999909,Tekla Factoring and Finance Limited,C:/python_work/bvn_user_actitities/destination/
+999923,Parthian Securities Limited,C:/python_work/bvn_user_actitities/destination/
+999941,IBA MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+999945,Zikora Mirofinance Bank,C:/python_work/bvn_user_actitities/destination/
+999968,NUMO MFB,C:/python_work/bvn_user_actitities/destination/
+999987,AKWA  SAVINGS & LOANS LIMITED,C:/python_work/bvn_user_actitities/destination/
+999988,Zuru Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+999995,STATESIDE MICROFINANCE BANK,C:/python_work/bvn_user_actitities/destination/
+925,Belfry Investments & Sec,C:/python_work/bvn_user_actitities/destination/
+202141,Ekimogun Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+911,VFD MICROFINANCE BANK LTD,C:/python_work/bvn_user_actitities/destination/
+500010,Baobab Microfinance Bank,C:/python_work/bvn_user_actitities/destination/
+5000XX,HIGHSTREET MFB,C:/python_work/bvn_user_actitities/destination/
