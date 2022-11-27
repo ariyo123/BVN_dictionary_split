@@ -66,7 +66,7 @@ for code in contents1[:]:
             #pass
             # textfile = open(f"{path}/{bankName}.txt", "a")
             # textfile.write('ID,ACTION,IPADDRESS,ACTIONDATE,EMAIL,BANKCODE,DETAILS,ITEMSEARCHCOUNT,AUDITTYPE\n')
-            conn = msql.connect(host='127.0.0.1', database='housing_data', user='root', password='Magfum12@')
+            conn = msql.connect(host='127.0.0.1', database='housing_data', user='u', password='@')
   
             # get cursor object
             cursor= conn.cursor()
